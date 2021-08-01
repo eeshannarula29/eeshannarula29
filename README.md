@@ -10,7 +10,7 @@ Hi, I am Eeshan Narula, a student at the University of Toronto studying CS and S
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="355" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="355" />
 
 💬 ask me about anything, i am happy to help : [email](eeshannarula29@gmail.com) :)
 
