@@ -14,7 +14,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 💬 ask me about anything, i am happy to help : [email](eeshannarula29@gmail.com) :)
 
-**languages and tools:**  
+ <!-- **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -24,7 +24,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
-
+-->
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=eeshannarula29&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
