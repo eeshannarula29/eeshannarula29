@@ -1,9 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/eeshan-narula-83a8b0201//">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=eeshannarula29.eeshannarula29)
 
 Hi, I am Eeshan Narula, a student at the University of Toronto studying CS and Stats. I am interested in AI and Machine Learning, and love to create projects and contribute. I am a dedicated individual who loves what he is doing 😀. 
