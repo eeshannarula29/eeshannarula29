@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=eeshannarula29.eeshannarula29)
 Hi, I am Eeshan Narula, a student at the University of Toronto studying CS and Stats. I am interested in AI and Machine Learning 😀. 
 
-💬 ask me about anything, i am happy to help : [email](eeshannarula29@gmail.com) :)
+💬 ask me about anything, I am happy to chat : [email](eeshannarula29@gmail.com) :)
 
 
 
